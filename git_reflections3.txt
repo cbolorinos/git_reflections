@@ -1,0 +1,1 @@
+A remote repository definitely keeps the odds lower of you loosing your work. Github is much less likely to crash than your computer is
