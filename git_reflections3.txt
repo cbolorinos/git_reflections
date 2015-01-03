@@ -1,3 +1,10 @@
 A remote repository definitely keeps the odds lower of you loosing your work. Github is much less likely to crash than your computer is
 
-If you push changes manually you will have more control. You'll be able to have a local branch for experimenting and mucking around, while you'll have your remote branch where others will be able to work on the common, polished branch. 
+If you push changes manu
+ally you will have more control. You'll be able to have a local branch for experimenting and mucking around, while you'll have your remote branch where others will be able to work on the common, polished branch. 
+
+A branch makes sense if you wanna try a new feature without changing the master branch. To experiment. 
+
+Cloning makes more sense if you want to work with someone else on a project, or want to get someone elses project on your own desktop
+
+Creating a fork is useful if you want to later clone it, but don't have permission to collaborate from the owner, so you can't make a branch.
