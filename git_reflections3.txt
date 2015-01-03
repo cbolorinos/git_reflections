@@ -1,1 +1,3 @@
 A remote repository definitely keeps the odds lower of you loosing your work. Github is much less likely to crash than your computer is
+
+If you push changes manually you will have more control. You'll be able to have a local branch for experimenting and mucking around, while you'll have your remote branch where others will be able to work on the common, polished branch. 
