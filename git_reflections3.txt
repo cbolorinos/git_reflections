@@ -8,3 +8,5 @@ A branch makes sense if you wanna try a new feature without changing the master 
 Cloning makes more sense if you want to work with someone else on a project, or want to get someone elses project on your own desktop
 
 Creating a fork is useful if you want to later clone it, but don't have permission to collaborate from the owner, so you can't make a branch.
+
+Having the last known update of the remote is useful because it has more info than some outdated copy. This way if you have to work from the woods (like Caroline) you can have access to all the latest content. To be honest, the answer seems so obvious I'm surprised I have to speculate.
