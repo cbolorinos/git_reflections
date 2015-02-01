@@ -13,3 +13,5 @@ Having the last known update of the remote is useful because it has more info th
 ay if you have to work from the woods (like Caroline) you can have access to all the latest content. To be honest, the answer seems so obvious I'm surprised I have to speculate.
 
 Colaborating with github would be easier in some ways, because you could keep tabs on what changed and who changed it.
+
+Making other branches is a safe way for you to do your work. It eliminates the possibility of you messing up the whole project, and it also gives you a space that nobody will interfere with (if you're doing the job collaboratively)
